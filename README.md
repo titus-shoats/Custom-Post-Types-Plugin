@@ -1,1 +1,1 @@
-"# custom-post-types" 
+Creates a wordpress custom post type.
